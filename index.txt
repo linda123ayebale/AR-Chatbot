@@ -1,4 +1,0 @@
-The AR-Chatbot is comprised of a web application that has the chatbot and the AR 
-feature that offers navigation using AR.
-It will be built entirely in python and using python frameworks like django.
-All the best
